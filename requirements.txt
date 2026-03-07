@@ -9,3 +9,9 @@ spaces
 gradio
 gradio[all]
 transparent-background
+numpy
+torch
+pillow
+transparent-background
+spaces
+
